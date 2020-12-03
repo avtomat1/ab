@@ -144,6 +144,7 @@ pubsub.plex.bz
 pubsub.plex.tv
 raw.githubusercontent.com
 redirector.googlevideo.com
+reliablerxpharmacy.com
 res.cloudinary.com
 s.gateway.messenger.live.com
 s.marketwatch.com
