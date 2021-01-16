@@ -4,6 +4,7 @@
 1drv.com
 2.android.pool.ntp.org
 aax-us-iad.amazon.com
+ads-serve.brave.com
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
