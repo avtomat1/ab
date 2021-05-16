@@ -388,3 +388,6 @@ amzn.com
 fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
+
+# DNS Seed Nodes
+seed.bitcoinstats.com
