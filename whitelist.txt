@@ -391,3 +391,7 @@ livepassdl.conviva.com
 
 # DNS Seed Nodes
 seed.bitcoinstats.com
+dnsseed.bluematt.me
+dnsseed.bitcoin.dashjr.org
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
