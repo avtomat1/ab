@@ -106,6 +106,7 @@ mads-eu.amazon.com
 manifest.googlevideo.com
 media.steampowered.com
 media4.steampowered.com
+media.aso1.net
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
