@@ -5,6 +5,7 @@
 2.android.pool.ntp.org
 aax-us-iad.amazon.com
 ads-serve.brave.com
+ads.holid.io
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
