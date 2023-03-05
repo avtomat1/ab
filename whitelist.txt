@@ -1,6 +1,7 @@
 #main list
 
 rumble.com
+s.slice.exchange
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
