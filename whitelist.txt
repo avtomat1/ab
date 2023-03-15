@@ -1,6 +1,9 @@
 #main list
 
 rumble.com
+addslice.com
+sli.ce.it
+slice.exchange
 s.slice.exchange
 0.client-channel.google.com
 1drv.com
