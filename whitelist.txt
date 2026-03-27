@@ -104,6 +104,7 @@ jsdelivr.net
 keystone.mwbsys.com
 lastfm-img2.akamaized.net
 licensing.xboxlive.com
+limetorrents.lol
 live.com
 login.aliexpress.com
 login.live.com
